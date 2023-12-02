@@ -4,7 +4,19 @@
       "id": 1,
       "title": "Harry Potter andPhilosopher's stone",
       "author": "J. K.Rolling",
-      "cost" : 300
+      "cost": 300
+    },
+    {
+      "id": 2,
+      "title": "Five point someone",
+      "author": "Chetan Bhagat",
+      "cost": 500
+    },
+    {
+      "id": 3,
+      "author": "Rudyard",
+      "title": "The Jungle Book",
+      "cost": 5090
     }
   ]
 }
