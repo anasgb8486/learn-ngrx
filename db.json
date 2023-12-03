@@ -17,6 +17,18 @@
       "author": "Rudyard",
       "title": "The Jungle Book",
       "cost": 5090
+    },
+    {
+      "id": 4,
+      "author": "The Brothers Grimm",
+      "title": "Snow White and the Seven Dwarfs",
+      "cost": 600
+    },
+    {
+      "id": 5,
+      "author": "Unknow",
+      "title": "Alice in the wornderland",
+      "cost": 300
     }
   ]
 }
